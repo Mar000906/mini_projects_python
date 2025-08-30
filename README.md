@@ -1,7 +1,7 @@
 # 🚀 My Python Mini-Projects Collection
 
 Welcome to my **Python Mini-Projects Collection**! 🎉  
-This repository contains **10 small projects** that I created to practice and improve my Python skills. Each project is designed to be interactive, visual, and fun, perfect for learning and showcasing on **LinkedIn**. 💻✨
+This repository contains **10 small projects** that I created to practice and improve my Python skills. Each project is designed to be interactive, visual, and fun. 💻✨
 
 ## 🛠️ Tools & Libraries Used
 - **Python 3.13** 🐍  
